@@ -4,7 +4,7 @@
   width: 100vw;
 }
 
-div, p, h1, h2, h3, h4, a {
+body {
   font-family: 'Helvetica';
   color: #BBBBBB;
 }
